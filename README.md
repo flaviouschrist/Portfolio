@@ -17,19 +17,9 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 **Tools:** WordPress, Elementor, Adobe Express  
 
 ---
-## 🔹 [HumanEquity.ca](https://humanequity.ca)
 
-**Role:** Designer & Developer  
-**Highlights:**
-- Rebuilt corporate site for Human Equity Advantage using WordPress + Elementor  
-- Migrated and reformatted 7+ thought leadership articles and integrated podcasts  
-- Designed the Equity Continuum visual framework to align with brand identity  
-- Implemented rolling implementation strategy for publishing content  
-- Ensured responsive layouts and accessibility compliance across devices  
 
-**Tools:** WordPress, Elementor, Adobe Illustrator, Canva, Custom CSS  
-
-## 🔹 [Terrasecura.ca](https://terrasecura.ca)
+## 🔹 [Terrasecura.ca](terrasecura.ca)
 
 **Role:** Designer & Developer  
 **Highlights:**
@@ -53,6 +43,17 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 **Tools:** WordPress, Elementor, Adobe Illustrator  
 
 ---
+## 🔹 [HumanEquity.ca](https://humanequity.ca) ** In Development
+
+**Role:** Designer & Developer  
+**Highlights:**
+- Rebuilt corporate site for Human Equity Advantage using WordPress + Elementor  
+- Migrated and reformatted 7+ thought leadership articles and integrated podcasts  
+- Designed the Equity Continuum visual framework to align with brand identity  
+- Implemented rolling implementation strategy for publishing content  
+- Ensured responsive layouts and accessibility compliance across devices  
+
+**Tools:** WordPress, Elementor, Adobe Illustrator, Canva, Custom CSS  
 
 ## 🔹 [GreenwayAccounting.ca](https://greenwayaccounting.ca)
 
