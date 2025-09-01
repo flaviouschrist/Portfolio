@@ -6,7 +6,6 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 ---
 
 ## 🔹 [Dentrick.com](https://dentrick.com)
-![Screenshot](images/dentrick.png)
 
 **Role:** Lead Designer & Developer  
 **Highlights:**
@@ -18,9 +17,19 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 **Tools:** WordPress, Elementor, Adobe Express  
 
 ---
+## 🔹 [HumanEquity.ca](https://humanequity.ca)
+
+**Role:** Designer & Developer  
+**Highlights:**
+- Rebuilt corporate site for Human Equity Advantage using WordPress + Elementor  
+- Migrated and reformatted 7+ thought leadership articles and integrated podcasts  
+- Designed the Equity Continuum visual framework to align with brand identity  
+- Implemented rolling implementation strategy for publishing content  
+- Ensured responsive layouts and accessibility compliance across devices  
+
+**Tools:** WordPress, Elementor, Adobe Illustrator, Canva, Custom CSS  
 
 ## 🔹 [Terrasecura.ca](https://terrasecura.ca)
-![Screenshot](images/terrasecura.png)
 
 **Role:** Designer & Developer  
 **Highlights:**
@@ -34,7 +43,6 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 ---
 
 ## 🔹 [Greysuits.ca](https://greysuits.ca)
-![Screenshot](images/greysuits.png)
 
 **Role:** Web Designer  
 **Highlights:**
@@ -47,7 +55,6 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 ---
 
 ## 🔹 [GreenwayAccounting.ca](https://greenwayaccounting.ca)
-![Screenshot](images/greenway.png)
 
 **Role:** Designer & Developer  
 **Highlights:**
@@ -60,7 +67,6 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 ---
 
 ## 🔹 [YourDigitalToolBelt.ca](https://yourdigitaltoolbelt.ca)
-![Screenshot](images/ydtb.png)
 
 **Role:** Co-Founder, Designer & Developer  
 **Highlights:**
