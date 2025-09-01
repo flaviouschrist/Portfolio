@@ -80,18 +80,27 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 ---
 
 ## 🔹 Parklon Inc. (Case Study)
-![Parklon Photo](media/parklon1.jpg)
 
 **Role:** Designer, Content Creator, Digital Strategist  
 **Highlights:**
-- Built custom layouts in Elementor to showcase services  
-- Captured and edited original photos/videos for digital use  
-- Developed marketing content consistent with brand positioning  
-- Collaborated directly with client on site revisions  
+- Designed modern renovation-focused website in WordPress + Elementor  
+- Created custom layouts for services (Flooring, Kitchens, Basements, Backyards)  
+- Developed content strategy with CTAs (free same-day consultations)  
+- Captured & edited visuals to align with brand storytelling
 
-🎥 Videos & media samples: [View Media Folder](media/)
+**Tools Used:**  
+- CMS: WordPress + Elementor  
+- Design: Adobe Express, Canva  
+- Front-end: Custom CSS tweaks for layout  
+- Content: Original photography + video editing 
 
----
+### 📸 Screenshots
+
+![Parklon Home](IMG_6883.jpeg)
+![Parklon Kitchen](IMG_6884.jpeg)
+![Parklon Flooring](IMG_6885.jpeg)
+![Parklon Outdoor](IMG_6886.jpeg)
+
 
 ## 🛠 Skills & Tools Demonstrated
 - CMS: WordPress (Elementor), basic Shopify familiarity  
