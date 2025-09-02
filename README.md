@@ -17,21 +17,6 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 **Tools:** WordPress, Elementor, Adobe Express  
 
 ---
-
-
-## 🔹 [Terrasecura.ca](terrasecura.ca)
-
-**Role:** Designer & Developer  
-**Highlights:**
-- Created cybersecurity-focused branding and visual design  
-- Built site architecture with Elementor for scalability  
-- Integrated secure lead forms and call-to-action funnels  
-- Applied SEO fundamentals for keyword targeting  
-
-**Tools:** WordPress, Elementor, Custom CSS, Adobe Photoshop  
-
----
-
 ## 🔹 [Greysuits.ca](https://greysuits.ca)
 
 **Role:** Web Designer  
@@ -54,6 +39,20 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 - Ensured responsive layouts and accessibility compliance across devices  
 
 **Tools:** WordPress, Elementor, Adobe Illustrator, Canva, Custom CSS  
+
+
+## 🔹 [Terrasecura.ca](https://terrasecura.ca)
+
+**Role:** Designer & Developer  
+**Highlights:**
+- Created cybersecurity-focused branding and visual design  
+- Built site architecture with Elementor for scalability  
+- Integrated secure lead forms and call-to-action funnels  
+- Applied SEO fundamentals for keyword targeting  
+
+**Tools:** WordPress, Elementor, Custom CSS, Adobe Photoshop  
+
+
 
 ## 🔹 [GreenwayAccounting.ca](https://greenwayaccounting.ca)
 
