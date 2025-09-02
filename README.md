@@ -41,7 +41,7 @@ All projects were built with **WordPress + Elementor**, supported by **Adobe Cre
 **Tools:** WordPress, Elementor, Adobe Illustrator, Canva, Custom CSS  
 
 
-## 🔹 [Terrasecura.ca](https://terrasecura.ca)
+## 🔹 [Terrasecure.ca](https://terrasecure.ca)
 
 **Role:** Designer & Developer  
 **Highlights:**
